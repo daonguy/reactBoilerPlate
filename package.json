@@ -27,7 +27,6 @@
     "postcss-custom-properties": "^5.0.1",
     "postcss-import": "^9.1.0",
     "postcss-loader": "^1.2.1",
-    "jquery": "^2.2.1",
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
     "react-addons-test-utils": "^0.14.7",
